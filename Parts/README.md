@@ -1,4 +1,5 @@
 |Description|Comments|
 |-|-|
-|15mm tail servo bridge |Can be printed in FDM (PLA, PETG, other) or SLS/MJF.|
-|XDfly 195 support |Can be printed in FDM (PLA, PETG, other) or SLS/MJF.|
+|M7R blade caddy | A printed blade caddy. Print FDM PLA or PETG.|
+|15mm tail servo bridge | Print FDM (PLA, PETG, other) or SLS/MJF.|
+|XDfly 195 support | Print FDM (PLA, PETG, other) or SLS/MJF.|
